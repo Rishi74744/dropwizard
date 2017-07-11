@@ -5,7 +5,7 @@ so you don't have to add all dependencies separately.
 It provides Jersey to create REST APIs.
 
 To start the project
-Run - mvn clean install
+Run - mvn clean package
 
 Then  
 java -jar /target/dropwizard.jar server
